@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TISB", "TISB.csproj", "{A1398F61-94D1-4489-836E-EDA3F25A5C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murder.Tests", "..\Murder.Tests\Murder.Tests.csproj", "{C38D2B76-13E0-4809-A3BF-C67A6E8A3962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1398F61-94D1-4489-836E-EDA3F25A5C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1398F61-94D1-4489-836E-EDA3F25A5C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1398F61-94D1-4489-836E-EDA3F25A5C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1398F61-94D1-4489-836E-EDA3F25A5C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38D2B76-13E0-4809-A3BF-C67A6E8A3962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38D2B76-13E0-4809-A3BF-C67A6E8A3962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38D2B76-13E0-4809-A3BF-C67A6E8A3962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38D2B76-13E0-4809-A3BF-C67A6E8A3962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52E5DE0-14D7-4AA1-8C20-886DC0AE9497}
+	EndGlobalSection
+EndGlobal
